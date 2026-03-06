@@ -7,7 +7,10 @@ Arduino lib for the  ADS131M02 and ADS131M04 24-bit Analog to Digital Converter.
 
 Mostly based on the work of https://github.com/LucasEtchezuri/Arduino-ADS131M04 and https://github.com/raibisch/ADS131M0x
 
-## My changes to Raibisch's lib
+## Eliza's changes
+* None yet
+
+## Chip's changes to Raibisch's lib
 * Fix problem of channel offset when using ADS131M04
 * Add example of using ESP32 cled as clock source for ADS131M0x
 * Split ADS131M0x to ADS131M02 and ADS131M04
